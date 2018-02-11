@@ -42,7 +42,7 @@ default['visualstudio']['2015']['professional']['package_name'] =
 default['visualstudio']['2015']['professional']['checksum'] =
   '7badca090697567ca679159afa21f5d84605bda6a66f99283185dacd24d61e6b'
 default['visualstudio']['2015']['professional']['default_source'] =
-  'http://download.microsoft.com/download/3/6/A/36A72A3F-711B-4738-B4C6-C668A508D2EE'
+  'https://go.microsoft.com/fwlink/?LinkId=615434&clcid=0x409'
 
 # Defaults for the <SelectableItemCustomization> in AdminDeployment.xml
 # These are DEFAULTS. If you wish to change the selectable items installed edit the node attributes
@@ -191,7 +191,7 @@ default['visualstudio']['2015']['community']['package_name'] =
 default['visualstudio']['2015']['community']['checksum'] =
   'ce124aec77f970605bb38352e59e7b3c7b51c0367f213cf5e6165b2698c1ba20'
 default['visualstudio']['2015']['community']['default_source'] =
-  'http://download.microsoft.com/download/b/e/d/bedddfc4-55f4-4748-90a8-ffe38a40e89f'
+  'https://go.microsoft.com/fwlink/?LinkId=615448&clcid=0x409'
 
 # Defaults for the <SelectableItemCustomization> in AdminDeployment.xml
 # These are DEFAULTS. If you wish to change the selectable items installed edit the node attributes
@@ -335,7 +335,8 @@ default['visualstudio']['2015']['enterprise']['package_name'] =
 default['visualstudio']['2015']['enterprise']['checksum'] =
   'ea91fec301f1c105ef39826a72d21de5923f3d7a5857c25af3163526dd768639'
 default['visualstudio']['2015']['enterprise']['default_source'] =
-  'http://download.microsoft.com/download/6/C/9/6C95B548-64A9-4637-A7F2-EB2A750C7504'
+  'https://go.microsoft.com/fwlink/?LinkId=615436&clcid=0x409'
+  # TODO update the rest, help appreciated
 
 # Defaults for the <SelectableItemCustomization> in AdminDeployment.xml
 # These are DEFAULTS. If you wish to change the selectable items installed edit the node attributes
