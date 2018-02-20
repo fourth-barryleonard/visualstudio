@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of visualstudion.
 
+## 1.2.1
+
+* Fix to resolve error 'undefined method success_codes for Chef::Resource::WindowsPackage'
+
 ## 1.2.0
 
 * Default to VS 2015 Community Edition
